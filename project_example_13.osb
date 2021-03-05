@@ -1,0 +1,4 @@
+[Events]
+//Background and Video events
+//Storyboard Layer 0 (Background)
+Sprite,Background,Centre,"sb\b\8\f.jpg",320,240Sprite,Background,Centre,"sb\b\8\f.jpg",320,240

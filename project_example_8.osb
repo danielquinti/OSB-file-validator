@@ -1,0 +1,4 @@
+[Events]
+Sprite,Background,Centre,"sb\f\Regular\0061.png",0,237
+ F,17,0,1000,0,1
+ F,17,0,1000,0,1,1
